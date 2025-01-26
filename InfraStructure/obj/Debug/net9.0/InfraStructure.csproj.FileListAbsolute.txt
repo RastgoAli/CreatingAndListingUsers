@@ -1,0 +1,12 @@
+C:\Projects\InfraStructure\bin\Debug\net9.0\InfraStructure.deps.json
+C:\Projects\InfraStructure\bin\Debug\net9.0\InfraStructure.dll
+C:\Projects\InfraStructure\bin\Debug\net9.0\InfraStructure.pdb
+C:\Projects\InfraStructure\obj\Debug\net9.0\InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\InfraStructure\obj\Debug\net9.0\InfraStructure.AssemblyInfoInputs.cache
+C:\Projects\InfraStructure\obj\Debug\net9.0\InfraStructure.AssemblyInfo.cs
+C:\Projects\InfraStructure\obj\Debug\net9.0\InfraStructure.csproj.CoreCompileInputs.cache
+C:\Projects\InfraStructure\obj\Debug\net9.0\InfraStructure.dll
+C:\Projects\InfraStructure\obj\Debug\net9.0\refint\InfraStructure.dll
+C:\Projects\InfraStructure\obj\Debug\net9.0\InfraStructure.pdb
+C:\Projects\InfraStructure\obj\Debug\net9.0\ref\InfraStructure.dll
+C:\Projects\InfraStructure\obj\Debug\net9.0\InfraStructure.sourcelink.json
